@@ -16,4 +16,4 @@ HitFilm Pro Edition. compositor, 3D model import, 800+ VFX presets, green screen
 
 
 TAGS
-hitfilm, hitfilm-vfx, vfx-video-editor                     
+hitfilm, hitfilm-vfx, vfx-video-editor                      
